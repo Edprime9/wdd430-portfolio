@@ -4,4 +4,4 @@
 
 View the live application here:
 
-https://your-vercel-url.vercel.app
+https://wdd430-portfolio-one-omega.vercel.app/
